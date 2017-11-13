@@ -2,4 +2,7 @@
 Here is my FriendlyChat App using Firebase.
 
 
-The demo video can be found in the zip file.
+The demo video can be found in FriendlyChat.zip.
+
+
+The xcode project should be opened in terminal with the command open FriendlyChatSwift.xcworkspace.
