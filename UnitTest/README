@@ -1,3 +1,5 @@
 This is my unit test homework.
 
+For Part 1, I generated my own test cases, the details and the results of my test cases can be found in FoodTracker_TestCases.xlsx.
+
 For Part 2, I used AWS test farm and the result is shown in FoodTracker_AWS Device Farm.pdf and FoodTracker_parsingResult.txt.
